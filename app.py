@@ -1,3 +1,4 @@
+import sklearn
 import numpy as np
 from pickle import load
 from flask import Flask, render_template, request, redirect, url_for
