@@ -1,5 +1,6 @@
 numpy
 flask
 pickle5
+xgboost
 scikit-learn
 gunicorn
